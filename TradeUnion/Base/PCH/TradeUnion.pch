@@ -1,0 +1,22 @@
+//
+//  TradeUnion.pch
+//  TradeUnion
+//
+//  Created by 林郴 on 2017/2/7.
+//  Copyright © 2017年 bzunion. All rights reserved.
+//
+
+#ifndef TradeUnion_pch
+#define TradeUnion_pch
+/**
+ *  全局变量文件
+ */
+#import "Define.h"
+
+/**
+ *  头文件 
+ */
+#import "Interface.h"
+
+#endif /* TradeUnion_pch */
+
